@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/dposternak/dposternak-2025-8-7-9-4-9/:/
+ - /content/dposternak/dposternak-2025-8-7-9-4-9/metadata.json:/metadata.json
+ - /content/dposternak/dposternak-2025-8-7-9-4-9/redirects.json:/redirects.json
